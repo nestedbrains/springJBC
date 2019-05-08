@@ -1,6 +1,6 @@
 ## Spring Java Based Configuration
 
-###injected dependencies  
+### Injected Dependencies  
 
 ```
    <dependency>
